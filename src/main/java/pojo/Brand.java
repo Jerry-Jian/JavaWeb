@@ -7,7 +7,7 @@ public class Brand {
     private Integer ordered;
     private String description;
     private Integer status;
-    private String heelo;
+    private String hello;
 
     public Integer getId() {
         return id;
