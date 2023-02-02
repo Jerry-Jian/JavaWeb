@@ -8,7 +8,6 @@ public class Brand {
     private String description;
     private Integer status;
     private String hoooo;
-    private String hello;
 
     public Integer getId() {
         return id;
